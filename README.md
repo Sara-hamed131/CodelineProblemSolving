@@ -18,7 +18,7 @@ To submit your solution for all 4 problems, please follow these steps:
 ### Step 3: Clone the Forked Repository
 - Open your terminal or command prompt.
 - Clone the repository to your local machine using the following command:
-  ```bash
+  ```bash                                    
   git clone https://github.com/your-username/repo-name.git
   ```
 
